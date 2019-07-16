@@ -47,7 +47,7 @@ jQuery.validator.addMethod() is used to add two validation rules form fields.
 
 ### xssvalidation.js
 
-```
+``` javascript
 /// xssvalidation.js
 
 jQuery(document).ready(function () {
