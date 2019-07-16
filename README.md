@@ -31,7 +31,7 @@ and this line in Views
 adds jquery.validate.js and jquery.validate.unobtrusive.js to the View.
 
 
-## Add validation rules to form fields
+## Add xss-validation rules to form fields
 
 Add the file xssvalidation.js to ```@section Scripts``` in View
 
