@@ -81,6 +81,10 @@ jQuery(document).ready(function () {
 }); 
 ```
 
+## Demo
+When not allowed character combinations are used, an error message is given to the user.
+
+<img src="https://raw.githubusercontent.com/PeterQuistgaard/ValidateInputAttribute-client-side-validation/master/Screendump.PNG" width="500">
 
 
 
