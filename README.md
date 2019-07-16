@@ -73,7 +73,7 @@ jQuery(document).ready(function () {
     //Select form fields and add class xssvalidation
     $("form input:text, form textarea").addClass("xssvalidation");
 
-    //Add rules to alle field with the class name xssvalidation
+    //Add rules to alle fields with the class name xssvalidation
     $.validator.addClassRules("xssvalidation", {
         xssvalidation1: true,
         xssvalidation2: true
